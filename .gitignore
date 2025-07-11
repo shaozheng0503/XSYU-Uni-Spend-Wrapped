@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Output and temporary files
+output/
+*.xlsx
+*.csv
+
+# Other projects or unrelated directories
+alipay-wechat-finance-main/
+
+# IDE / Editor specific
+.vscode/
+.idea/ 
